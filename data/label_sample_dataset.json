@@ -1,0 +1,802 @@
+[
+    {
+        "text": {
+            "Question": "Why is the sky blue?",
+            "Solution": "The internet works by transmitting data through networks.",
+            "GPT answer": "The internet is a network that connects computers worldwide."
+        },
+        "Label": {
+            "Error Type": [
+                0,
+                1,
+                0,
+                0,
+                1
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "What is artificial intelligence?",
+            "Solution": "The sky is blue because of the scattering of sunlight by the atmosphere.",
+            "GPT answer": "Quantum computing uses quantum bits to encode information."
+        },
+        "Label": {
+            "Error Type": [
+                0,
+                0,
+                0,
+                1,
+                1
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "What causes rain?",
+            "Solution": "The sky is blue because of the scattering of sunlight by the atmosphere.",
+            "GPT answer": "Rain happens when moisture in the air condenses into water droplets."
+        },
+        "Label": {
+            "Error Type": [
+                1,
+                1,
+                0,
+                1,
+                0
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "How does the internet work?",
+            "Solution": "The internet works by transmitting data through networks.",
+            "GPT answer": "Rain happens when moisture in the air condenses into water droplets."
+        },
+        "Label": {
+            "Error Type": [
+                0,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "How does the internet work?",
+            "Solution": "The internet works by transmitting data through networks.",
+            "GPT answer": "Rain happens when moisture in the air condenses into water droplets."
+        },
+        "Label": {
+            "Error Type": [
+                1,
+                0,
+                0,
+                0,
+                1
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "What causes rain?",
+            "Solution": "The internet works by transmitting data through networks.",
+            "GPT answer": "The internet is a network that connects computers worldwide."
+        },
+        "Label": {
+            "Error Type": [
+                0,
+                1,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "What causes rain?",
+            "Solution": "Rain is caused by moisture condensing in the air.",
+            "GPT answer": "The internet is a network that connects computers worldwide."
+        },
+        "Label": {
+            "Error Type": [
+                1,
+                0,
+                1,
+                1,
+                1
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "Why is the sky blue?",
+            "Solution": "Rain is caused by moisture condensing in the air.",
+            "GPT answer": "AI is the field of creating machines that can think like humans."
+        },
+        "Label": {
+            "Error Type": [
+                1,
+                0,
+                1,
+                1,
+                0
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "What causes rain?",
+            "Solution": "Rain is caused by moisture condensing in the air.",
+            "GPT answer": "AI is the field of creating machines that can think like humans."
+        },
+        "Label": {
+            "Error Type": [
+                1,
+                0,
+                0,
+                0,
+                1
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "Why is the sky blue?",
+            "Solution": "Rain is caused by moisture condensing in the air.",
+            "GPT answer": "AI is the field of creating machines that can think like humans."
+        },
+        "Label": {
+            "Error Type": [
+                1,
+                0,
+                1,
+                0,
+                1
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "How does the internet work?",
+            "Solution": "The sky is blue because of the scattering of sunlight by the atmosphere.",
+            "GPT answer": "The internet is a network that connects computers worldwide."
+        },
+        "Label": {
+            "Error Type": [
+                1,
+                1,
+                0,
+                0,
+                1
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "What causes rain?",
+            "Solution": "Quantum computing is computing using quantum-mechanical phenomena.",
+            "GPT answer": "The sky is blue due to the Rayleigh scattering of sunlight by the Earth's atmosphere."
+        },
+        "Label": {
+            "Error Type": [
+                0,
+                0,
+                1,
+                1,
+                0
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "What is quantum computing?",
+            "Solution": "The internet works by transmitting data through networks.",
+            "GPT answer": "The internet is a network that connects computers worldwide."
+        },
+        "Label": {
+            "Error Type": [
+                1,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "What is quantum computing?",
+            "Solution": "Quantum computing is computing using quantum-mechanical phenomena.",
+            "GPT answer": "The sky is blue due to the Rayleigh scattering of sunlight by the Earth's atmosphere."
+        },
+        "Label": {
+            "Error Type": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "What causes rain?",
+            "Solution": "Rain is caused by moisture condensing in the air.",
+            "GPT answer": "The sky is blue due to the Rayleigh scattering of sunlight by the Earth's atmosphere."
+        },
+        "Label": {
+            "Error Type": [
+                0,
+                1,
+                0,
+                0,
+                1
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "What causes rain?",
+            "Solution": "Rain is caused by moisture condensing in the air.",
+            "GPT answer": "Rain happens when moisture in the air condenses into water droplets."
+        },
+        "Label": {
+            "Error Type": [
+                0,
+                0,
+                0,
+                0,
+                1
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "How does the internet work?",
+            "Solution": "The sky is blue because of the scattering of sunlight by the atmosphere.",
+            "GPT answer": "AI is the field of creating machines that can think like humans."
+        },
+        "Label": {
+            "Error Type": [
+                1,
+                0,
+                1,
+                1,
+                1
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "Why is the sky blue?",
+            "Solution": "Rain is caused by moisture condensing in the air.",
+            "GPT answer": "Quantum computing uses quantum bits to encode information."
+        },
+        "Label": {
+            "Error Type": [
+                1,
+                1,
+                1,
+                1,
+                0
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "What causes rain?",
+            "Solution": "Rain is caused by moisture condensing in the air.",
+            "GPT answer": "Rain happens when moisture in the air condenses into water droplets."
+        },
+        "Label": {
+            "Error Type": [
+                1,
+                0,
+                1,
+                0,
+                1
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "What is artificial intelligence?",
+            "Solution": "Rain is caused by moisture condensing in the air.",
+            "GPT answer": "Quantum computing uses quantum bits to encode information."
+        },
+        "Label": {
+            "Error Type": [
+                1,
+                0,
+                1,
+                1,
+                0
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "What is quantum computing?",
+            "Solution": "Artificial intelligence is a branch of computer science dealing with simulation of intelligent behavior.",
+            "GPT answer": "Quantum computing uses quantum bits to encode information."
+        },
+        "Label": {
+            "Error Type": [
+                1,
+                0,
+                0,
+                1,
+                1
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "What is quantum computing?",
+            "Solution": "The sky is blue because of the scattering of sunlight by the atmosphere.",
+            "GPT answer": "Rain happens when moisture in the air condenses into water droplets."
+        },
+        "Label": {
+            "Error Type": [
+                0,
+                1,
+                0,
+                0,
+                1
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "What is quantum computing?",
+            "Solution": "Artificial intelligence is a branch of computer science dealing with simulation of intelligent behavior.",
+            "GPT answer": "The internet is a network that connects computers worldwide."
+        },
+        "Label": {
+            "Error Type": [
+                1,
+                1,
+                1,
+                0,
+                1
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "What is quantum computing?",
+            "Solution": "Artificial intelligence is a branch of computer science dealing with simulation of intelligent behavior.",
+            "GPT answer": "AI is the field of creating machines that can think like humans."
+        },
+        "Label": {
+            "Error Type": [
+                1,
+                1,
+                1,
+                0,
+                1
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "How does the internet work?",
+            "Solution": "Rain is caused by moisture condensing in the air.",
+            "GPT answer": "AI is the field of creating machines that can think like humans."
+        },
+        "Label": {
+            "Error Type": [
+                1,
+                0,
+                0,
+                0,
+                1
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "What is quantum computing?",
+            "Solution": "The internet works by transmitting data through networks.",
+            "GPT answer": "The sky is blue due to the Rayleigh scattering of sunlight by the Earth's atmosphere."
+        },
+        "Label": {
+            "Error Type": [
+                1,
+                0,
+                0,
+                1,
+                1
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "What causes rain?",
+            "Solution": "Quantum computing is computing using quantum-mechanical phenomena.",
+            "GPT answer": "Rain happens when moisture in the air condenses into water droplets."
+        },
+        "Label": {
+            "Error Type": [
+                1,
+                1,
+                1,
+                0,
+                1
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "What is artificial intelligence?",
+            "Solution": "Rain is caused by moisture condensing in the air.",
+            "GPT answer": "AI is the field of creating machines that can think like humans."
+        },
+        "Label": {
+            "Error Type": [
+                0,
+                1,
+                1,
+                0,
+                0
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "Why is the sky blue?",
+            "Solution": "Artificial intelligence is a branch of computer science dealing with simulation of intelligent behavior.",
+            "GPT answer": "AI is the field of creating machines that can think like humans."
+        },
+        "Label": {
+            "Error Type": [
+                0,
+                0,
+                1,
+                0,
+                0
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "How does the internet work?",
+            "Solution": "The sky is blue because of the scattering of sunlight by the atmosphere.",
+            "GPT answer": "The internet is a network that connects computers worldwide."
+        },
+        "Label": {
+            "Error Type": [
+                0,
+                0,
+                1,
+                0,
+                1
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "How does the internet work?",
+            "Solution": "Rain is caused by moisture condensing in the air.",
+            "GPT answer": "Quantum computing uses quantum bits to encode information."
+        },
+        "Label": {
+            "Error Type": [
+                1,
+                0,
+                1,
+                1,
+                0
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "What causes rain?",
+            "Solution": "The internet works by transmitting data through networks.",
+            "GPT answer": "AI is the field of creating machines that can think like humans."
+        },
+        "Label": {
+            "Error Type": [
+                1,
+                0,
+                1,
+                0,
+                1
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "What is artificial intelligence?",
+            "Solution": "Quantum computing is computing using quantum-mechanical phenomena.",
+            "GPT answer": "Quantum computing uses quantum bits to encode information."
+        },
+        "Label": {
+            "Error Type": [
+                1,
+                0,
+                1,
+                1,
+                0
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "What is artificial intelligence?",
+            "Solution": "The sky is blue because of the scattering of sunlight by the atmosphere.",
+            "GPT answer": "AI is the field of creating machines that can think like humans."
+        },
+        "Label": {
+            "Error Type": [
+                0,
+                1,
+                0,
+                1,
+                1
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "What is quantum computing?",
+            "Solution": "The sky is blue because of the scattering of sunlight by the atmosphere.",
+            "GPT answer": "Quantum computing uses quantum bits to encode information."
+        },
+        "Label": {
+            "Error Type": [
+                1,
+                1,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "How does the internet work?",
+            "Solution": "Rain is caused by moisture condensing in the air.",
+            "GPT answer": "AI is the field of creating machines that can think like humans."
+        },
+        "Label": {
+            "Error Type": [
+                0,
+                1,
+                0,
+                1,
+                1
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "What is artificial intelligence?",
+            "Solution": "The sky is blue because of the scattering of sunlight by the atmosphere.",
+            "GPT answer": "Rain happens when moisture in the air condenses into water droplets."
+        },
+        "Label": {
+            "Error Type": [
+                0,
+                1,
+                0,
+                1,
+                0
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "How does the internet work?",
+            "Solution": "Artificial intelligence is a branch of computer science dealing with simulation of intelligent behavior.",
+            "GPT answer": "The internet is a network that connects computers worldwide."
+        },
+        "Label": {
+            "Error Type": [
+                1,
+                1,
+                0,
+                1,
+                1
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "Why is the sky blue?",
+            "Solution": "The sky is blue because of the scattering of sunlight by the atmosphere.",
+            "GPT answer": "Quantum computing uses quantum bits to encode information."
+        },
+        "Label": {
+            "Error Type": [
+                0,
+                0,
+                1,
+                1,
+                0
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "What is artificial intelligence?",
+            "Solution": "Artificial intelligence is a branch of computer science dealing with simulation of intelligent behavior.",
+            "GPT answer": "AI is the field of creating machines that can think like humans."
+        },
+        "Label": {
+            "Error Type": [
+                1,
+                1,
+                0,
+                0,
+                1
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "What is artificial intelligence?",
+            "Solution": "Quantum computing is computing using quantum-mechanical phenomena.",
+            "GPT answer": "Rain happens when moisture in the air condenses into water droplets."
+        },
+        "Label": {
+            "Error Type": [
+                0,
+                0,
+                0,
+                1,
+                0
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "What is artificial intelligence?",
+            "Solution": "Artificial intelligence is a branch of computer science dealing with simulation of intelligent behavior.",
+            "GPT answer": "AI is the field of creating machines that can think like humans."
+        },
+        "Label": {
+            "Error Type": [
+                0,
+                0,
+                0,
+                1,
+                0
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "What causes rain?",
+            "Solution": "Rain is caused by moisture condensing in the air.",
+            "GPT answer": "AI is the field of creating machines that can think like humans."
+        },
+        "Label": {
+            "Error Type": [
+                0,
+                0,
+                1,
+                1,
+                1
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "Why is the sky blue?",
+            "Solution": "Artificial intelligence is a branch of computer science dealing with simulation of intelligent behavior.",
+            "GPT answer": "The sky is blue due to the Rayleigh scattering of sunlight by the Earth's atmosphere."
+        },
+        "Label": {
+            "Error Type": [
+                1,
+                0,
+                0,
+                0,
+                1
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "Why is the sky blue?",
+            "Solution": "The sky is blue because of the scattering of sunlight by the atmosphere.",
+            "GPT answer": "The internet is a network that connects computers worldwide."
+        },
+        "Label": {
+            "Error Type": [
+                1,
+                1,
+                0,
+                0,
+                1
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "How does the internet work?",
+            "Solution": "Quantum computing is computing using quantum-mechanical phenomena.",
+            "GPT answer": "Rain happens when moisture in the air condenses into water droplets."
+        },
+        "Label": {
+            "Error Type": [
+                0,
+                1,
+                1,
+                0,
+                0
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "Why is the sky blue?",
+            "Solution": "Artificial intelligence is a branch of computer science dealing with simulation of intelligent behavior.",
+            "GPT answer": "Quantum computing uses quantum bits to encode information."
+        },
+        "Label": {
+            "Error Type": [
+                0,
+                1,
+                0,
+                1,
+                1
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "What is quantum computing?",
+            "Solution": "Rain is caused by moisture condensing in the air.",
+            "GPT answer": "Quantum computing uses quantum bits to encode information."
+        },
+        "Label": {
+            "Error Type": [
+                1,
+                0,
+                0,
+                1,
+                0
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "Why is the sky blue?",
+            "Solution": "The sky is blue because of the scattering of sunlight by the atmosphere.",
+            "GPT answer": "The internet is a network that connects computers worldwide."
+        },
+        "Label": {
+            "Error Type": [
+                0,
+                1,
+                1,
+                0,
+                0
+            ]
+        }
+    },
+    {
+        "text": {
+            "Question": "Why is the sky blue?",
+            "Solution": "Rain is caused by moisture condensing in the air.",
+            "GPT answer": "The sky is blue due to the Rayleigh scattering of sunlight by the Earth's atmosphere."
+        },
+        "Label": {
+            "Error Type": [
+                0,
+                1,
+                0,
+                1,
+                0
+            ]
+        }
+    }
+]

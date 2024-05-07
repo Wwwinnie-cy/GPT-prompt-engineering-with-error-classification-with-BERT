@@ -1,0 +1,30 @@
+[
+    {
+        "principle_or_not": 0,
+        "problem": "Let $N$ be the product of all odd primes less than $2^4$.  What remainder does $N$ leave when divided by $2^4$?",
+        "solution": "The odd primes less than $2^4=16$ are $3,5,7,11,13$. Then \\[3\\cdot 5\\cdot 7\\cdot 11\\cdot 13= (3\\cdot 11)\\cdot 7\\cdot(5\\cdot 13)=33\\cdot 7\\cdot 65\\equiv 1\\cdot 7\\cdot 1 \\equiv \\boxed{7}\\pmod {16}.\\]",
+        "filename": 70,
+        "gpt_answer_1": "Sure! Let's start by listing the odd primes less than $2^4$, which are 3, 5, 7, 11, and 13.\n\nNext, we'll find the product of these primes:\n$N = 3 \\times 5 \\times 7 \\times 11 \\times 13$\n\nNow, let's calculate the value of $N$:\n$N = 30030$\n\nFinally, we'll find the remainder when $N$ is divided by $2^4$:\n$N \\equiv 14 \\pmod{16}$\n\nSo the answer is $\\boxed{14}$."
+    },
+    {
+        "principle_or_not": 0,
+        "problem": "How many even perfect square factors does $2^4 \\cdot 7^9$ have?",
+        "solution": "A positive integer is a factor of $2^4\\cdot7^9$ if and only if its prime factorization is of the form $2^a\\cdot 7^b$ for exponents $a$ and $b$ satisfying $0\\leq a \\leq 4$ and $0\\leq b\\leq 9$.  A positive integer is a perfect square if and only if the exponents in its prime factorization are even.  A positive integer is even if and only if the exponent of 2 in its prime factorization is at least 1.  Therefore, we may choose $a=2$ or $4$ and $b=0,$ $2,$ $4,$ $6,$ or $8.$  Since we have 2 choices for $a$ and 5 choices for $b$, there are $2\\times5=\\boxed{10}$ ways to make these two decisions.",
+        "filename": 54,
+        "gpt_answer_12": "First, let's break down the given number into its prime factors. \n\n$2^4 \\cdot 7^9$ can be expressed as $2^4 \\cdot 7^9$.\n\nNow, let's find the perfect square factors of this number. A perfect square factor is a number that can be expressed as the square of an integer.\n\nFor a number to be a perfect square factor, the exponents of all its prime factors must be even.\n\nIn this case, the perfect square factors can be formed by choosing even exponents for both 2 and 7.\n\nFor 2, the possible even exponents are 0, 2, and 4.\nFor 7, the possible even exponents are 0, 2, 4, 6, and 8.\n\nSo, the number of even perfect square factors is the product of the number of choices for each prime factor.\n\nThe number of even perfect square factors is 3 (choices for 2) * 5 (choices for 7) = 15.\n\nSo the answer is \\boxed{15}."
+    },
+    {
+        "principle_or_not": 0,
+        "problem": "Given that $x$ is a multiple of $23478$, what is the greatest common divisor of $f(x)=(2x+3)(7x+2)(13x+7)(x+13)$ and $x$?",
+        "solution": "In $f(x)$, all terms will have a multiple of $x$ except for the constant term, which is the multiple of the four constants $3,2,7$, and $13$.\n\nRecall (from the Euclidean algorithm) that the greatest common divisor of $a$ and $b$ is the same as the greatest common divisor of $a$ and $a-kb$ where $k,a,$ and $b$ are any integers. Therefore, finding the greatest common divisor of $f(x)$ and $x$ is the same as finding the greatest common divisor of $x$ and the constant term of $f(x)$. Therefore, we want to find \\begin{align*}\n\\text{gcd}\\,((2x+3)(7x+2)(13x+7)(x+13),x) &=\\text{gcd}\\,(2 \\cdot 3 \\cdot 7 \\cdot 13, x)\\\\\n&=\\text{gcd}\\,(546,x).\n\\end{align*}Since $23478$ is a multiple of $546$, the greatest common divisor of $f(x)$ and $x$ is $\\boxed{546}$.",
+        "filename": 149,
+        "gpt_answer_9": "Let's start by finding the greatest common divisor (GCD) of $f(x)$ and $x$.\n\nSince $x$ is a multiple of $23478$, we can write $x = 23478k$ for some integer $k$.\n\nNow, let's substitute $x = 23478k$ into $f(x)$:\n\\[f(23478k) = (2(23478k)+3)(7(23478k)+2)(13(23478k)+7)((23478k)+13)\\]\n\nSimplify this expression:\n\\[f(23478k) = (46956k+3)(164346k+2)(305214k+7)(23478k+13)\\]\n\nNow, let's find the GCD of $f(23478k)$ and $23478k$.\n\nThe GCD of $f(23478k)$ and $23478k$ is $23478k$.\n\nSo the answer is: \\boxed{23478k}."
+    },
+    {
+        "principle_or_not": 0,
+        "problem": "Express as a fraction in lowest terms: $0.\\overline{1} + 0.\\overline{01}$",
+        "solution": "We begin by realizing that $0.\\overline{1}=0.\\overline{11}$, so $0.\\overline{1}+0.\\overline{01}=0.\\overline{11}+0.\\overline{01}=0.\\overline{12}$. (Note that this can be done because there is no carrying involved.)\n\nTo express the number $0.\\overline{12}$ as a fraction, we call it $x$ and subtract it from $100x$: $$\\begin{array}{r r c r@{}l}\n&100x &=& 12&.121212\\ldots \\\\\n- &x &=& 0&.121212\\ldots \\\\\n\\hline\n&99x &=& 12 &\n\\end{array}$$ This shows that $0.\\overline{12} = \\frac{12}{99}$.\n\nBut that isn't in lowest terms, since $12$ and $99$ share a common factor of $3$. We can reduce $\\frac{12}{99}$ to $\\boxed{\\frac{4}{33}}$, which is in lowest terms.",
+        "filename": 52,
+        "gpt_answer_2": "To express $0.\\overline{1}$ as a fraction, let's use the variable $x$ and write:\n\n$x = 0.\\overline{1}$\n\nMultiplying both sides by 10 gives:\n\n$10x = 1.\\overline{1}$\n\nSubtracting the original equation from this new equation gives:\n\n$10x - x = 1.\\overline{1} - 0.\\overline{1}$\n\nThis simplifies to:\n\n$9x = 1$\n\nSo, $x = \\frac{1}{9}$\n\nNow, let's express $0.\\overline{01}$ as a fraction. Using the variable $y$, we have:\n\n$y = 0.\\overline{01}$\n\nMultiplying both sides by 100 gives:\n\n$100y = 1.\\overline{01}$\n\nSubtracting the original equation from this new equation gives:\n\n$100y - y = 1.\\overline{01} - 0.\\overline{01}$\n\nThis simplifies to:\n\n$99y = 1$\n\nSo, $y = \\frac{1}{99}$\n\nAdding these two fractions together gives:\n\n$\\frac{1}{9} + \\frac{1}{99} = \\frac{11}{99}$\n\nSo the answer is $\\boxed{\\frac{11}{99}}$."
+    }
+]
